@@ -1,0 +1,25 @@
+.heading
+{
+    color: white;
+    background-color: orange;
+}
+.note
+{
+    color: black;
+}
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px grey;
+    white-space: pre-line;
+    background-color: grey;
+}
+canvas
+{
+    border: 3px solid blue;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+}
